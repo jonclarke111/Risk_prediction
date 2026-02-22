@@ -6,7 +6,7 @@ library(tidyverse)
 
 ### SET PATHS ####
 
-path_1<-"K:/CKFB UKB metab/UKB_oct_22/Data dictionaries/"
+path_1<-"K:/UKB_oct_22/Data dictionaries/"
 path_2<-"K:/CKFB UKB metab/UKB_oct_22/Data coding files/"
 path_3<-"K:/CKFB UKB metab/UKB_oct_22/Participant withdrawals/"
 path_4<-"K:/CKFB UKB metab/UKB_oct_22/Data apr24/"
